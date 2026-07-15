@@ -12,13 +12,13 @@ Full-stack developer working in Next.js, React, and TypeScript. I'm at my best i
 
 ## Skills
 
-- **Frontend:** React, Next.js (App Router, Server Components), TypeScript, Tailwind CSS, shadcn/ui, MaterialUI, figma,
-TanstackQuery, Jotai, Zustand
+- **Frontend:** React, Next.js (App Router, Server Components), TypeScript, Tailwind CSS, shadcn/ui, MaterialUI, Figma,
+  TanstackQuery, Jotai, Zustand
 - **Performance:** Core Web Vitals (LCP / INP / CLS), bundle size, code splitting, rendering strategy, image & font optimization
 - **Backend:** Node.js, NestJS, PostgreSQL (Prisma), Redis, REST
 - **Infra / tooling:** Docker, CI/CD, Vercel, Sentry
 - **AI-assisted workflow:** taking v0 / Lovable / Bolt output to production; AI tooling in daily workflow
-- _Also worked with:_ Groovy, Camunda, Jenkins
+- _Also worked with:_ Groovy, Camunda, Jenkins, MongoDB, MySQL, Angular, Firebase
 
 ## Experience
 
