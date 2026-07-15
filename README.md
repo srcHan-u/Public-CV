@@ -37,6 +37,8 @@ Sep 2024 — Mar 2025 · Kyiv · govtech platform for data digitization
 
 - Built a public portal for digitizing data from state-owned enterprises.
 - Implemented complex multi-step submission forms on Form.io, with validation and error handling.
+- Modeled business logic with Camunda BPMN workflows.
+- Gathered and clarified complex requirements from government institutions.
 
 ### Frontend Developer — Cigarlands
 
@@ -44,6 +46,7 @@ Mar 2023 — Sep 2024 · Kyiv · cigar auction startup
 
 - Built the frontend of a real-time auction: bidding UI with live price updates over WebSockets, lot pages, checkout.
 - Handled reconnects and race conditions in live bidding.
+- Built complex, composable components in Next.js with SSG.
 
 ## Languages
 
