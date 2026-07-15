@@ -18,7 +18,7 @@ Full-stack developer working in Next.js, React, and TypeScript. I'm at my best i
 - **Backend:** Node.js, NestJS, PostgreSQL (Prisma), Redis, REST
 - **Infra / tooling:** Docker, CI/CD, Vercel, Sentry
 - **AI-assisted workflow:** taking v0 / Lovable / Bolt output to production; AI tooling in daily workflow
-- _Also worked with:_ Groovy, Camunda, Jenkins, MongoDB, MySQL, Angular, Firebase
+- _Also worked with:_ Groovy, Camunda, Jenkins, MongoDB, MySQL, Angular, Firebase, GraphQL, Swagger, Liquibase, Gerrit
 
 ## Experience
 
